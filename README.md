@@ -3,9 +3,6 @@ Here is my JSON configuration for the editor:
 ```json
 {
   "editor.fontFamily": "Dank Mono",
-  // "editor.fontFamily": "Fragment Mono",
-  // "editor.fontFamily": "Roboto",
-  // "editor.fontWeight": "bold",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
