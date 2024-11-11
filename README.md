@@ -1,3 +1,6 @@
+Here is my JSON configuration for the editor:
+
+```json
 {
   "editor.fontFamily": "Dank Mono",
   // "editor.fontFamily": "Fragment Mono",
